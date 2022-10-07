@@ -25,7 +25,7 @@ set noerrorbells
 set novisualbell
 set t_vb=
 set tm=500
-olorscheme murphy
+colorscheme murphy
 set background=dark
 set laststatus=2
 set statusline=\ %{HasPaste()}%F%m%r%h\ %w\ \ CWD:\ %r%{getcwd()}%h\ \ \ Line:\ %l\ \ Column:\ %c
