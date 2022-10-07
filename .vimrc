@@ -1,4 +1,4 @@
-# .vimrc (07.10.2022)
+" .vimrc (07.10.2022)
 
 " Functional
 syntax on
@@ -30,8 +30,7 @@ set background=dark
 set laststatus=2
 set statusline=\ %{HasPaste()}%F%m%r%h\ %w\ \ CWD:\ %r%{getcwd()}%h\ \ \ Line:\ %l\ \ Column:\ %c
 
-# Usage
-nmap <leader>w :w!<cr>
+nmap <#Usageleader>w :w!<cr>
 set expandtab
 set smarttab
 set shiftwidth=4
