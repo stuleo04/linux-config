@@ -15,6 +15,7 @@ set incsearch "browser like search
 set magic "for regular expressions
 set encoding=utf8 "standard encoding
 set ffs=unix,dos,mac "unix as standard filetype
+set backspace=indent,eol,start
 
 "Visuals & Sound
 set mat=2
