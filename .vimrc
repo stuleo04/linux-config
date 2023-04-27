@@ -26,9 +26,12 @@ set noerrorbells
 set novisualbell
 set t_vb=
 set tm=500
-colorscheme habamax
+colorscheme desert
 set background=dark
 set laststatus=2
+
+set cursorcolumn
+set cursorline
 
 nmap <#Usageleader>w :w!<cr>
 set expandtab
