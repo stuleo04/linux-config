@@ -1,4 +1,4 @@
-" .vimrc (31.12.2022)
+" .vimrc (27.4.2023)
 
 " Functional
 syntax on
